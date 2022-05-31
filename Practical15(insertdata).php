@@ -2,6 +2,9 @@
     <body>
 
 <?php
+//1) CREATE DATABASE EMPLOYEES;
+//2) USE EMPLOYEES;
+//3) CREATE table emp(id int PRIMARY KEY,name Varchar(20),Salary Integer);
     $host = "localhost";
     $user = "root";
     $pass = "1234";
